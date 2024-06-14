@@ -17,4 +17,3 @@
   <li>Chessboar-python</li>
   <li>Random</li>
 </ul>
-Stockfish
